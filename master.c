@@ -2,7 +2,6 @@
 
 int main()
 {
-printf("This is the master branch");
-printf("This is branch1")
+printf("No more master, only branch2")
 return 0;
 }
